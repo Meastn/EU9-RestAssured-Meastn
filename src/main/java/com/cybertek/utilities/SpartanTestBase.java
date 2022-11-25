@@ -8,6 +8,6 @@ public abstract class SpartanTestBase {
 
     @BeforeAll
     public static void init(){
-        baseURI ="http://54.172.101.13:8000";
+        baseURI ="http://44.195.19.167:8000";
     }
 }
